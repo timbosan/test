@@ -1,0 +1,12 @@
+/Users/timbosan/Downloads/test-1/bin/Debug/netcoreapp2.1/workspace.deps.json
+/Users/timbosan/Downloads/test-1/bin/Debug/netcoreapp2.1/workspace.runtimeconfig.json
+/Users/timbosan/Downloads/test-1/bin/Debug/netcoreapp2.1/workspace.runtimeconfig.dev.json
+/Users/timbosan/Downloads/test-1/bin/Debug/netcoreapp2.1/workspace.dll
+/Users/timbosan/Downloads/test-1/bin/Debug/netcoreapp2.1/workspace.pdb
+/Users/timbosan/Downloads/test-1/obj/Debug/netcoreapp2.1/workspace.csprojAssemblyReference.cache
+/Users/timbosan/Downloads/test-1/obj/Debug/netcoreapp2.1/workspace.csproj.CoreCompileInputs.cache
+/Users/timbosan/Downloads/test-1/obj/Debug/netcoreapp2.1/workspace.AssemblyInfoInputs.cache
+/Users/timbosan/Downloads/test-1/obj/Debug/netcoreapp2.1/workspace.AssemblyInfo.cs
+/Users/timbosan/Downloads/test-1/obj/Debug/netcoreapp2.1/workspace.dll
+/Users/timbosan/Downloads/test-1/obj/Debug/netcoreapp2.1/workspace.pdb
+/Users/timbosan/Downloads/test-1/obj/Debug/netcoreapp2.1/workspace.genruntimeconfig.cache
